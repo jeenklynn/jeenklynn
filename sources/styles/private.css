@@ -1,0 +1,9 @@
+@font-face {
+    font-family: myFont;
+    src: url(/../sources/fonts/albr55w.ttf);
+}
+
+body {
+    background-image: url("/../sources/images/backgrounds/01.gif");
+    background-size: cover;
+}
