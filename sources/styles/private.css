@@ -7,3 +7,13 @@ body {
     background-image: url("/../sources/images/backgrounds/01.gif");
     background-size: cover;
 }
+
+.card {
+    margin: 10px;
+}
+
+.thumb {
+    height: 170px;
+    width: 100%;
+    display: block;
+}
